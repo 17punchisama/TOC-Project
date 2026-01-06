@@ -1,4 +1,4 @@
-**# TOC-Project 📚
+# TOC-Project 📚
 
 A fullstack web application project combining frontend and backend to deliver a complete software solution.
 
@@ -33,4 +33,4 @@ TOC-Project/ </br>
 ├── frontend/ # TypeScript, CSS, and HTML UI </br>
 ├── README.md # This documentation </br>
 └── .gitignore 
-**
+
