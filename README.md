@@ -28,5 +28,9 @@ This project demonstrates fullstack development practices, API integration, and 
 ---
 
 ## 📁 Project Structure
-
+TOC-Project/
+├── backend/ # Python backend API and logic
+├── frontend/ # TypeScript, CSS, and HTML UI
+├── README.md # This documentation
+└── .gitignore
 **
